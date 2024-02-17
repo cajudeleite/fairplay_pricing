@@ -276,3 +276,4 @@ XlsxWriter==3.0.3
 yapf==0.32.0
 yarl==1.9.2
 zipp==3.10.0
+sklearn
